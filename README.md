@@ -14,8 +14,8 @@ A responsive and modern e-commerce web application for seamless online shopping 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript *(or React/Vue if used)*  
-- **Backend:** Node.js, Express *(or your backend choice)*  
-- **Database:** MongoDB / MySQL *(or the one you used)*  
+- **Frontend:** HTML, CSS, JavaScript React*  
+- **Backend:** Node.js, Express
+- **Database:** MongoDB / MySQL   
 - **Authentication:** JWT / Firebase / Session Auth  
 - **Other Tools:** Git, GitHub, VS Code
